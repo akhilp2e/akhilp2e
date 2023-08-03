@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil Nandanavanam @akhilp2e
-- 👀 I am a Senior Full Stack Developer (MERN Stack)
+- 👀 I am working with Mai Labs as Lead - Backend (MERN Stack)
 - 🌱 I’m currently learning MongoDB, System Design and Product Design
 - 📫 How to reach me +91 9121699222 
 - 
